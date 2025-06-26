@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes Türkoğlu</h1>
-<h3 align="center">Software Engineer (Java)</h3>
+<h3 align="center">Software Engineer (Android)</h3>
 
-- 🔭 I’m currently working on **Java Projects**
+- 🔭 I’m currently working on **Android Projects**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Kotlin Multi Platform**
 
 - 📫 How to reach me **enes.turkoglu.tal@gmail.com**
 
